@@ -1,4 +1,4 @@
-# Atividade 1 - Sistema de Gestão Académica (Faculdade)
+# Atividade 1 - Sistema de Gestão Academica (Faculdade)
 
 ## 📌 Descrição
 Este repositório contém o script SQL `atividade1.sql`, focado na criação e manipulação inicial de uma base de dados relacional para uma instituição de ensino. O objetivo principal é demonstrar o domínio sobre operações básicas de DDL (Data Definition Language) e DML (Data Manipulation Language).
